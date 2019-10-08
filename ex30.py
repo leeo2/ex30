@@ -1,6 +1,7 @@
 # Olivia Lee
 # 10-7-19
 # Else and if statements
+#Github test
 
 people = 30
 cars = 40
